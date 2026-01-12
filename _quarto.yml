@@ -21,7 +21,7 @@ book:
     - data_verification_clams.qmd
     - post-survey.qmd
     - additional_references.qmd
-  repo-url: https://github.com/DavidBryan-NOAA/slime_manual-v1/
+  repo-url: https://github.com/noaa-afsc-mace/slime_manual-v1 
   repo-actions: [edit, issue]
   sidebar:
     footer: |
